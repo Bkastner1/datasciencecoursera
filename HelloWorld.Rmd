@@ -1,0 +1,11 @@
+---
+title: 'Homework #1'
+author: "Bryce Kastner"
+date: "3/31/2020"
+output: html_document
+---
+## This is a markdown file.
+```{r}
+print("hello world!")
+```
+
